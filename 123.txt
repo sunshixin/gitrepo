@@ -1,8 +1,0 @@
-1111
-
-
-<<<<<<< HEAD
-2323sssssssabc
-=======
-2323sssssss
->>>>>>> df24ad6aa83747106acb22c44c43e2ded7014701
